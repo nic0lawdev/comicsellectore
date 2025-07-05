@@ -1,0 +1,32 @@
+=== REPORTE DE USUARIOS - COMIC COLLECTOR SYSTEM ===
+Fecha de generación: 29/06/2025 20:40:53
+Total de usuarios registrados: 2
+
+USUARIO: 12.345.678-9
+Nombre: nuicoasdas asdsad
+Email: sad
+Teléfono: sad
+Dirección: asdsadsa
+--- COMPRAS ---
+Comic ID: 23
+--- RESERVAS ---
+Sin reservas realizadas
+========================================
+
+USUARIO: 20.917.092-2
+Nombre: nicolas  cea
+Email: nicolascea43@gmail.com
+Teléfono: 934899577
+Dirección: santa teresa 
+--- COMPRAS ---
+Sin compras realizadas
+--- RESERVAS ---
+Comic ID: 26
+========================================
+
+
+=== ESTADÍSTICAS GENERALES ===
+Total de compras realizadas: 1
+Total de reservas activas: 1
+Promedio de compras por usuario: 0.50
+Promedio de reservas por usuario: 0.50

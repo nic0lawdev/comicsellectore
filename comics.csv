@@ -1,0 +1,30 @@
+id,titulo,autor,editorial,anio,genero,precio,stock,descripcion
+1,Spider-Man #1,Stan Lee,Marvel,1963,Superhéroes,25000,5,Primera aparición de Spider-Man
+2,Batman #1,Bob Kane,DC Comics,1940,Superhéroes,45000,3,Primera aparición de Batman
+3,X-Men #1,Stan Lee,Marvel,1963,Superhéroes,30000,4,Primera aparición de los X-Men
+4,The Walking Dead #1,Robert Kirkman,Image Comics,2003,Horror,20000,7,Inicio de la saga zombie
+5,Watchmen #1,Alan Moore,DC Comics,1986,Superhéroes,35000,2,Obra maestra del cómic adulto
+6,Saga #1,Brian K. Vaughan,Image Comics,2012,Ciencia Ficción,15000,10,Épica espacial moderna
+7,Sandman #1,Neil Gaiman,DC Vertigo,1989,Fantasy,28000,6,Clásico del cómic de autor
+8,Invincible #1,Robert Kirkman,Image Comics,2003,Superhéroes,18000,8,Superhéroe adolescente
+9,Fables #1,Bill Willingham,DC Vertigo,2002,Fantasy,22000,5,Cuentos de hadas modernos
+10,Y: The Last Man #1,Brian K. Vaughan,DC Vertigo,2002,Post-Apocalíptico,25000,4,Último hombre en la Tierra
+11,Hellboy #1,Mike Mignola,Dark Horse,1994,Sobrenatural,30000,3,Demonio investigador paranormal
+12,The Incredible Hulk #1,Stan Lee,Marvel,1962,Superhéroes,40000,2,Primera aparición de Hulk
+13,Fantastic Four #1,Stan Lee,Marvel,1961,Superhéroes,50000,1,Los primeros superhéroes de Marvel
+14,Spawn #1,Todd McFarlane,Image Comics,1992,Sobrenatural,22000,6,Antihéroe del inframundo
+15,Preacher #1,Garth Ennis,DC Vertigo,1995,Western,26000,4,Predicador en busca de Dios
+16,The Punisher #1,Gerry Conway,Marvel,1974,Acción,32000,3,Justiciero vigilante
+17,Iron Man #1,Stan Lee,Marvel,1968,Superhéroes,35000,4,El hombre de hierro
+18,Thor #1,Stan Lee,Marvel,1962,Mitología,38000,2,Dios del trueno
+19,Daredevil #1,Stan Lee,Marvel,1964,Superhéroes,33000,5,El diablo de Hell's Kitchen
+20,Green Lantern #1,John Broome,DC Comics,1960,Superhéroes,29000,6,Portador del anillo de poder
+21,The Flash #1,Robert Kanigher,DC Comics,1959,Superhéroes,31000,4,El hombre más rápido del mundo
+22,Wonder Woman #1,William Moulton Marston,DC Comics,1942,Superhéroes,42000,2,Princesa amazona
+23,Captain America #1,Joe Simon,Marvel,1941,Superhéroes,44000,3,El primer vengador
+24,Aquaman #1,Paul Norris,DC Comics,1962,Superhéroes,27000,5,Rey de los océanos
+25,Teen Titans #1,Bob Haney,DC Comics,1966,Superhéroes,24000,7,Jóvenes héroes
+26,Justice League #1,Gardner Fox,DC Comics,1960,Superhéroes,39000,3,Liga de la justicia
+27,Avengers #1,Stan Lee,Marvel,1963,Superhéroes,41000,2,Los vengadores más poderosos
+28,Deadpool #1,Fabian Nicieza,Marvel,1991,Comedia,21000,8,Mercenario bocazas
+29,Wolverine #1,Chris Claremont,Marvel,1982,Acción,34000,4,El mutante más salvaje
